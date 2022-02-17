@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "StoreProcedure", "StoreProcedure\StoreProcedure.ssmssqlproj", "{1334B7B8-4D2D-40B4-9135-CCF693CB009C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1334B7B8-4D2D-40B4-9135-CCF693CB009C}.Default|Default.ActiveCfg = Default
+		{C91CE8A1-AF45-482B-BA7C-F000818C477F}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76D04EFD-81C3-4277-87E4-3916C2CA337C}
+	EndGlobalSection
+EndGlobal
